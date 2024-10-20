@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon backend/index.js",
-    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend/MemoVault",
+    "build": "npm install && npm install --prefix frontend/MemoVault && npm run build --prefix frontend/MemoVault",
     "start": "nodemon backend/index.js"
   },
   "author": "",
