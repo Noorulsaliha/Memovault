@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "memovault": "file:.."
+  }
+}

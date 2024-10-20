@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Configuration files
+config.json
+
+# Logs
+logs
+*.log
+
+# Node modules
+node_modules
+
+# Other sensitive or build files
+dist
